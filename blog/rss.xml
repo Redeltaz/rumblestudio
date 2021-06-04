@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>Rumble Studio Blog</title>
-        <link>https://redeltaz.github.io/rumblestudio/blog</link>
+        <link>https://github.com/Redeltaz/blog</link>
         <description>Rumble Studio Blog</description>
         <lastBuildDate>Sun, 25 Oct 2015 23:29:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
