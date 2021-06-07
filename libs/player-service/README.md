@@ -12,7 +12,7 @@ Install the package `@rumblestudio/player-service`:
 npm install @rumblestudio/player-service
 ```
 
-Note: The service has [HowlerJS](https://howlerjs.com/) <img width="100" src="https://howlerjs.com/assets/images/logo.svg"> as a dependency, a javascript library for audio manipulation and UUID to generate some unique ID for playlist processes.
+Note: The service has [HowlerJS](https://howlerjs.com/) <img width="100" src="https://howlerjs.com/assets/images/logo.svg"></img> as a dependency, a javascript library for audio manipulation and UUID to generate some unique ID for playlist processes.
 
 ## Usage
 
@@ -25,7 +25,7 @@ To use the library within your Angular project the best way is to use an Angular
 ```shell
 npm install -g @angular/cli # install Angular
 ng new demo-player-angular # Create a new Angular app
-cd demo-player-angula
+cd demo-player-angular
 ng g s audio # generate a service
 ```
 
@@ -62,12 +62,13 @@ export class AudioService extends PlayerService {
 
 	constructor() {
 		super(); // needed as this class extends the Rumble Player Service
-		this.addNewOnCallback(this.on);
+		this.addNewOnCallback((event: PlayerServiceEvent) => this.on(event));
 	}
-	private on(event: PlayerServiceEvent) {
+
+	on(event: PlayerServiceEvent) {
 		// We convert the events into RxJS behaviour subject
 		// so that you can subscribe to them the way you want.
-		console.log('[audioService](on) new event:', event);
+		console.log('[audioService](on) new event:', event, this);
 		this.playing$.next(this.isPlaying);
 		this.index$.next(this.index);
 		this.position$.next(this.position);
@@ -171,4 +172,4 @@ and call those methods as you like from app.component.html:
 
 This library is actively supported by Rumble Studio who helps to create audio content. Check it out: [Rumble Studio](https://rumble.studio)
 
-<img src="https://rumblestudio.app/assets/rs-logos/classic-reversed.svg">
+<img src="https://rumblestudio.app/assets/rs-logos/classic-reversed.svg"></img>

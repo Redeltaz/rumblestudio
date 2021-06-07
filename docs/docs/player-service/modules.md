@@ -1,4 +1,4 @@
-[@rumblestudio/player-service](README.md) / Exports
+[@rumblestudio/player-service](./player-service/README.md) / Exports
 
 # @rumblestudio/player-service
 
@@ -6,14 +6,14 @@
 
 ### Enumerations
 
--   [PlayerServiceEventType](enums/playerserviceeventtype.md)
+- [PlayerServiceEventType](./player-service/enums/playerserviceeventtype.md)
 
 ### Classes
 
--   [PlayerService](classes/playerservice.md)
+- [PlayerService](./player-service/classes/playerservice.md)
 
 ### Interfaces
 
--   [PlayerServiceEvent](interfaces/playerserviceevent.md)
--   [PlayerState](interfaces/playerstate.md)
--   [Song](interfaces/song.md)
+- [PlayerServiceEvent](./player-service/interfaces/playerserviceevent.md)
+- [PlayerState](./player-service/interfaces/playerstate.md)
+- [Song](./player-service/interfaces/song.md)

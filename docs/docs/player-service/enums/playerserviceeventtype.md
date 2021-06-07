@@ -1,4 +1,4 @@
-[@rumblestudio/player-service](../README.md) / [Exports](../modules.md) / PlayerServiceEventType
+[@rumblestudio/player-service](./player-service/README.md) / [Exports](./player-service/modules.md) / PlayerServiceEventType
 
 # Enumeration: PlayerServiceEventType
 
@@ -6,18 +6,18 @@
 
 ### Enumeration members
 
--   [EndOfSong](playerserviceeventtype.md#endofsong)
--   [LoadError](playerserviceeventtype.md#loaderror)
--   [NewIndex](playerserviceeventtype.md#newindex)
--   [NewPlaylist](playerserviceeventtype.md#newplaylist)
--   [NewPosition](playerserviceeventtype.md#newposition)
--   [Next](playerserviceeventtype.md#next)
--   [Pause](playerserviceeventtype.md#pause)
--   [Play](playerserviceeventtype.md#play)
--   [PlayError](playerserviceeventtype.md#playerror)
--   [Prev](playerserviceeventtype.md#prev)
--   [Seek](playerserviceeventtype.md#seek)
--   [Stop](playerserviceeventtype.md#stop)
+- [EndOfSong](./player-service/enums/playerserviceeventtype.md#endofsong)
+- [LoadError](./player-service/enums/playerserviceeventtype.md#loaderror)
+- [NewIndex](./player-service/enums/playerserviceeventtype.md#newindex)
+- [NewPlaylist](./player-service/enums/playerserviceeventtype.md#newplaylist)
+- [NewPosition](./player-service/enums/playerserviceeventtype.md#newposition)
+- [Next](./player-service/enums/playerserviceeventtype.md#next)
+- [Pause](./player-service/enums/playerserviceeventtype.md#pause)
+- [Play](./player-service/enums/playerserviceeventtype.md#play)
+- [PlayError](./player-service/enums/playerserviceeventtype.md#playerror)
+- [Prev](./player-service/enums/playerserviceeventtype.md#prev)
+- [Seek](./player-service/enums/playerserviceeventtype.md#seek)
+- [Stop](./player-service/enums/playerserviceeventtype.md#stop)
 
 ## Enumeration members
 
@@ -27,9 +27,9 @@
 
 #### Defined in
 
-[lib/interfaces.ts:39](https://github.com/Redeltaz/rumblestudio/blob/bbc6b81/libs/player-service/src/lib/interfaces.ts#L39)
+[lib/interfaces.ts:39](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/interfaces.ts#L39)
 
----
+___
 
 ### LoadError
 
@@ -37,9 +37,9 @@
 
 #### Defined in
 
-[lib/interfaces.ts:43](https://github.com/Redeltaz/rumblestudio/blob/bbc6b81/libs/player-service/src/lib/interfaces.ts#L43)
+[lib/interfaces.ts:43](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/interfaces.ts#L43)
 
----
+___
 
 ### NewIndex
 
@@ -47,9 +47,9 @@
 
 #### Defined in
 
-[lib/interfaces.ts:41](https://github.com/Redeltaz/rumblestudio/blob/bbc6b81/libs/player-service/src/lib/interfaces.ts#L41)
+[lib/interfaces.ts:41](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/interfaces.ts#L41)
 
----
+___
 
 ### NewPlaylist
 
@@ -57,9 +57,9 @@
 
 #### Defined in
 
-[lib/interfaces.ts:44](https://github.com/Redeltaz/rumblestudio/blob/bbc6b81/libs/player-service/src/lib/interfaces.ts#L44)
+[lib/interfaces.ts:44](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/interfaces.ts#L44)
 
----
+___
 
 ### NewPosition
 
@@ -67,9 +67,9 @@
 
 #### Defined in
 
-[lib/interfaces.ts:40](https://github.com/Redeltaz/rumblestudio/blob/bbc6b81/libs/player-service/src/lib/interfaces.ts#L40)
+[lib/interfaces.ts:40](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/interfaces.ts#L40)
 
----
+___
 
 ### Next
 
@@ -77,9 +77,9 @@
 
 #### Defined in
 
-[lib/interfaces.ts:36](https://github.com/Redeltaz/rumblestudio/blob/bbc6b81/libs/player-service/src/lib/interfaces.ts#L36)
+[lib/interfaces.ts:36](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/interfaces.ts#L36)
 
----
+___
 
 ### Pause
 
@@ -87,9 +87,9 @@
 
 #### Defined in
 
-[lib/interfaces.ts:34](https://github.com/Redeltaz/rumblestudio/blob/bbc6b81/libs/player-service/src/lib/interfaces.ts#L34)
+[lib/interfaces.ts:34](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/interfaces.ts#L34)
 
----
+___
 
 ### Play
 
@@ -97,9 +97,9 @@
 
 #### Defined in
 
-[lib/interfaces.ts:33](https://github.com/Redeltaz/rumblestudio/blob/bbc6b81/libs/player-service/src/lib/interfaces.ts#L33)
+[lib/interfaces.ts:33](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/interfaces.ts#L33)
 
----
+___
 
 ### PlayError
 
@@ -107,9 +107,9 @@
 
 #### Defined in
 
-[lib/interfaces.ts:42](https://github.com/Redeltaz/rumblestudio/blob/bbc6b81/libs/player-service/src/lib/interfaces.ts#L42)
+[lib/interfaces.ts:42](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/interfaces.ts#L42)
 
----
+___
 
 ### Prev
 
@@ -117,9 +117,9 @@
 
 #### Defined in
 
-[lib/interfaces.ts:37](https://github.com/Redeltaz/rumblestudio/blob/bbc6b81/libs/player-service/src/lib/interfaces.ts#L37)
+[lib/interfaces.ts:37](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/interfaces.ts#L37)
 
----
+___
 
 ### Seek
 
@@ -127,9 +127,9 @@
 
 #### Defined in
 
-[lib/interfaces.ts:38](https://github.com/Redeltaz/rumblestudio/blob/bbc6b81/libs/player-service/src/lib/interfaces.ts#L38)
+[lib/interfaces.ts:38](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/interfaces.ts#L38)
 
----
+___
 
 ### Stop
 
@@ -137,4 +137,4 @@
 
 #### Defined in
 
-[lib/interfaces.ts:35](https://github.com/Redeltaz/rumblestudio/blob/bbc6b81/libs/player-service/src/lib/interfaces.ts#L35)
+[lib/interfaces.ts:35](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/interfaces.ts#L35)

@@ -1,4 +1,4 @@
-[@rumblestudio/player-service](../README.md) / [Exports](../modules.md) / Song
+[@rumblestudio/player-service](./player-service/README.md) / [Exports](./player-service/modules.md) / Song
 
 # Interface: Song
 
@@ -6,19 +6,19 @@
 
 ### Properties
 
--   [albumCover](song.md#albumcover)
--   [albumTitle](song.md#albumtitle)
--   [author](song.md#author)
--   [duration](song.md#duration)
--   [file](song.md#file)
--   [howl](song.md#howl)
--   [id](song.md#id)
--   [loaded](song.md#loaded)
--   [onload](song.md#onload)
--   [position](song.md#position)
--   [songCover](song.md#songcover)
--   [songTitle](song.md#songtitle)
--   [valid](song.md#valid)
+- [albumCover](./player-service/interfaces/song.md#albumcover)
+- [albumTitle](./player-service/interfaces/song.md#albumtitle)
+- [author](./player-service/interfaces/song.md#author)
+- [duration](./player-service/interfaces/song.md#duration)
+- [file](./player-service/interfaces/song.md#file)
+- [howl](./player-service/interfaces/song.md#howl)
+- [id](./player-service/interfaces/song.md#id)
+- [loaded](./player-service/interfaces/song.md#loaded)
+- [onload](./player-service/interfaces/song.md#onload)
+- [position](./player-service/interfaces/song.md#position)
+- [songCover](./player-service/interfaces/song.md#songcover)
+- [songTitle](./player-service/interfaces/song.md#songtitle)
+- [valid](./player-service/interfaces/song.md#valid)
 
 ## Properties
 
@@ -28,9 +28,9 @@
 
 #### Defined in
 
-[lib/interfaces.ts:14](https://github.com/Redeltaz/rumblestudio/blob/bbc6b81/libs/player-service/src/lib/interfaces.ts#L14)
+[lib/interfaces.ts:14](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/interfaces.ts#L14)
 
----
+___
 
 ### albumTitle
 
@@ -38,9 +38,9 @@
 
 #### Defined in
 
-[lib/interfaces.ts:15](https://github.com/Redeltaz/rumblestudio/blob/bbc6b81/libs/player-service/src/lib/interfaces.ts#L15)
+[lib/interfaces.ts:15](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/interfaces.ts#L15)
 
----
+___
 
 ### author
 
@@ -48,9 +48,9 @@
 
 #### Defined in
 
-[lib/interfaces.ts:13](https://github.com/Redeltaz/rumblestudio/blob/bbc6b81/libs/player-service/src/lib/interfaces.ts#L13)
+[lib/interfaces.ts:13](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/interfaces.ts#L13)
 
----
+___
 
 ### duration
 
@@ -58,9 +58,9 @@
 
 #### Defined in
 
-[lib/interfaces.ts:9](https://github.com/Redeltaz/rumblestudio/blob/bbc6b81/libs/player-service/src/lib/interfaces.ts#L9)
+[lib/interfaces.ts:9](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/interfaces.ts#L9)
 
----
+___
 
 ### file
 
@@ -68,9 +68,9 @@
 
 #### Defined in
 
-[lib/interfaces.ts:5](https://github.com/Redeltaz/rumblestudio/blob/bbc6b81/libs/player-service/src/lib/interfaces.ts#L5)
+[lib/interfaces.ts:5](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/interfaces.ts#L5)
 
----
+___
 
 ### howl
 
@@ -78,9 +78,9 @@
 
 #### Defined in
 
-[lib/interfaces.ts:8](https://github.com/Redeltaz/rumblestudio/blob/bbc6b81/libs/player-service/src/lib/interfaces.ts#L8)
+[lib/interfaces.ts:8](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/interfaces.ts#L8)
 
----
+___
 
 ### id
 
@@ -88,9 +88,9 @@
 
 #### Defined in
 
-[lib/interfaces.ts:4](https://github.com/Redeltaz/rumblestudio/blob/bbc6b81/libs/player-service/src/lib/interfaces.ts#L4)
+[lib/interfaces.ts:4](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/interfaces.ts#L4)
 
----
+___
 
 ### loaded
 
@@ -98,13 +98,13 @@
 
 #### Defined in
 
-[lib/interfaces.ts:10](https://github.com/Redeltaz/rumblestudio/blob/bbc6b81/libs/player-service/src/lib/interfaces.ts#L10)
+[lib/interfaces.ts:10](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/interfaces.ts#L10)
 
----
+___
 
 ### onload
 
-• `Optional` **onload**: (`song`: [Song](song.md)) => `void`
+• `Optional` **onload**: (`song`: [Song](./player-service/interfaces/song.md)) => `void`
 
 #### Type declaration
 
@@ -112,9 +112,9 @@
 
 ##### Parameters
 
-| Name   | Type            |
-| :----- | :-------------- |
-| `song` | [Song](song.md) |
+| Name | Type |
+| :------ | :------ |
+| `song` | [Song](./player-service/interfaces/song.md) |
 
 ##### Returns
 
@@ -122,9 +122,9 @@
 
 #### Defined in
 
-[lib/interfaces.ts:17](https://github.com/Redeltaz/rumblestudio/blob/bbc6b81/libs/player-service/src/lib/interfaces.ts#L17)
+[lib/interfaces.ts:17](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/interfaces.ts#L17)
 
----
+___
 
 ### position
 
@@ -132,9 +132,9 @@
 
 #### Defined in
 
-[lib/interfaces.ts:16](https://github.com/Redeltaz/rumblestudio/blob/bbc6b81/libs/player-service/src/lib/interfaces.ts#L16)
+[lib/interfaces.ts:16](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/interfaces.ts#L16)
 
----
+___
 
 ### songCover
 
@@ -142,9 +142,9 @@
 
 #### Defined in
 
-[lib/interfaces.ts:12](https://github.com/Redeltaz/rumblestudio/blob/bbc6b81/libs/player-service/src/lib/interfaces.ts#L12)
+[lib/interfaces.ts:12](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/interfaces.ts#L12)
 
----
+___
 
 ### songTitle
 
@@ -152,9 +152,9 @@
 
 #### Defined in
 
-[lib/interfaces.ts:7](https://github.com/Redeltaz/rumblestudio/blob/bbc6b81/libs/player-service/src/lib/interfaces.ts#L7)
+[lib/interfaces.ts:7](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/interfaces.ts#L7)
 
----
+___
 
 ### valid
 
@@ -162,4 +162,4 @@
 
 #### Defined in
 
-[lib/interfaces.ts:11](https://github.com/Redeltaz/rumblestudio/blob/bbc6b81/libs/player-service/src/lib/interfaces.ts#L11)
+[lib/interfaces.ts:11](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/interfaces.ts#L11)

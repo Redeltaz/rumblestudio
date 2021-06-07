@@ -1,7 +1,14 @@
-echo "Which lib you want to add doc"
+#!/bin/bash
 
-read NAME
+libs=("player-service" "player-configs");
 
-cd "../libs/$NAME"
+for element in "${libs[@]}"
+do
+    cd "../libs/$element";
 
-npx typedoc --out "../../docs/docs/$NAME" "./src/index.ts"
+    npm ci
+
+    npx typedoc --out "../../docs/docs/$element" "./src/index.ts" --publicPath "./$element/";
+
+    cd "../../scripts";
+done

@@ -1,0 +1,41 @@
+name: documentation
+
+on:
+  pull_request:
+    branches: [feature-l-documentation]
+  push:
+    branches: [feature-l-documentation]
+
+jobs:
+  deploy:
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [ 14.x, ]
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+        with:
+          node-version: '14.x'
+      - uses: webfactory/ssh-agent@v0.5.0
+        with:
+          ssh-private-key: ${{ secrets.GH_PAGES_DEPLOY }}
+      - name: Release to GitHub Pages
+        env:
+          USE_SSH: true
+          GIT_USER: git
+        run: |
+          git config --global user.email "lucascampistron95@gmail.com"
+          git config --global user.name "Redeltaz"
+          npm ci
+          cd ./scripts
+          chmod +x ./doc.sh
+          bash doc.sh
+          cd ..
+          git add ./docs/docs
+          git commit -m "typedoc compilation"
+          git push -f
+          cd ./docs && npm ci && npm run deploy
+

@@ -1,14 +1,15 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
 	title: 'Rumble Studio',
-	tagline: 'Dinosaurs are cool',
-	url: 'https://your-docusaurus-test-site.com',
-	baseUrl: '/',
+	tagline: 'Manage audio fast',
+	url: 'https://redeltaz.github.io',
+	baseUrl: '/rumblestudio/',
 	onBrokenLinks: 'throw',
 	onBrokenMarkdownLinks: 'warn',
 	favicon: 'img/favicon.ico',
-	organizationName: 'facebook', // Usually your GitHub org/user name.
-	projectName: 'docusaurus', // Usually your repo name.
+	organizationName: 'Redeltaz', // Usually your GitHub org/user name.
+	projectName: 'rumblestudio', // Usually your repo name.
+  onBrokenLinks: 'ignore',
 	themeConfig: {
 		navbar: {
 			title: 'Rumble Studio',
@@ -26,9 +27,13 @@ module.exports = {
 							href: 'docs/intro',
 						},
 						{
-							label: 'Rumble Player',
-							href: '/docs/Rumble%20Player/installation',
+							label: 'Player Service',
+							href: 'docs/player-service/README',
 						},
+            {
+              label: 'Player Configs',
+              href: 'docs/player-configs/README'
+            }
 					],
 				},
 				{
@@ -89,15 +94,6 @@ module.exports = {
 				theme: {
 					customCss: require.resolve('./src/css/custom.css'),
 				},
-			},
-		],
-	],
-	plugins: [
-		[
-			'docusaurus-plugin-typedoc',
-			{
-				entryPoints: ['../src/index.ts'],
-				tsconfig: '../tsconfig.json',
 			},
 		],
 	],

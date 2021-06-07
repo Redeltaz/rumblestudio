@@ -1,33 +1,17 @@
 # Website
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+This website is built using [Docusaurus 2](https://docusaurus.io/), and use Github Pages for the hosting.
 
-## Installation
+## Update
+The docs will be automaticaly updated when a merge happen in the main branch.
 
-```console
-yarn install
-```
+**Warning**
+If you add a new lib into the Nx workspace, don't forget to add the lib name into the array of libs into the [doc.sh](../scripts/doc.sh) script
 
-## Local Development
+You can also update the doc by yourself by following these steps :
 
-```console
-yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-## Build
-
-```console
-yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-## Deployment
-
-```console
-GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+- First be sur to install all the dependencies of the Docusaurus project on the docs folder using `npm install`
+- If you add a new lib into the project, add the new lib name you've created into the array of libs into the [doc.sh](../scripts/doc.sh) script 
+- On the root of the project you can launch the [doc.sh](../scripts/doc.sh) script using `npm run doc:compilation`, it will automaticaly compile all the typescript files of the libs into a well structured documentation folder on the Docusaurus project.
+- Then you have to fill the [docusaurus.config.js](./docusaurus.config.js) file by following the steps of the [Docusaurus deployment doc](https://docusaurus.io/fr/docs/deployment#docusaurusconfigjs-settings) .
+- Once the Docusaurus project is complete, be sure to have you're github username as a **GIT_USER** env variable, and then you can deploy it using `npm run doc:deploy`, the build of the Docusaurus project will automaticaly be merge into the *gh-pages* branch, and will be deploy following the informations you gave in the [docusaurus.config](./docusaurus.config.js) file.
