@@ -1,1 +1,0 @@
-(self.webpackChunkdoc=self.webpackChunkdoc||[]).push([[53],{9054:function(e){"use strict";e.exports=JSON.parse('{"pluginId":"default","version":"current","label":"Next","isLast":true,"docsSidebars":{"tutorialSidebar":[{"type":"link","label":"Get started","href":"/rumblestudio/docs/intro"}]},"permalinkToSidebar":{"/rumblestudio/docs/intro":"tutorialSidebar"}}')}}]);
