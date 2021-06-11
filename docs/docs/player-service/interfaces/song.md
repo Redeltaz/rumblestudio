@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[lib/interfaces.ts:14](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/interfaces.ts#L14)
+[lib/interfaces.ts:14](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/interfaces.ts#L14)
 
 ___
 
@@ -38,7 +38,7 @@ ___
 
 #### Defined in
 
-[lib/interfaces.ts:15](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/interfaces.ts#L15)
+[lib/interfaces.ts:15](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/interfaces.ts#L15)
 
 ___
 
@@ -48,7 +48,7 @@ ___
 
 #### Defined in
 
-[lib/interfaces.ts:13](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/interfaces.ts#L13)
+[lib/interfaces.ts:13](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/interfaces.ts#L13)
 
 ___
 
@@ -58,7 +58,7 @@ ___
 
 #### Defined in
 
-[lib/interfaces.ts:9](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/interfaces.ts#L9)
+[lib/interfaces.ts:9](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/interfaces.ts#L9)
 
 ___
 
@@ -68,7 +68,7 @@ ___
 
 #### Defined in
 
-[lib/interfaces.ts:5](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/interfaces.ts#L5)
+[lib/interfaces.ts:5](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/interfaces.ts#L5)
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 #### Defined in
 
-[lib/interfaces.ts:8](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/interfaces.ts#L8)
+[lib/interfaces.ts:8](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/interfaces.ts#L8)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-[lib/interfaces.ts:4](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/interfaces.ts#L4)
+[lib/interfaces.ts:4](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/interfaces.ts#L4)
 
 ___
 
@@ -98,7 +98,7 @@ ___
 
 #### Defined in
 
-[lib/interfaces.ts:10](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/interfaces.ts#L10)
+[lib/interfaces.ts:10](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/interfaces.ts#L10)
 
 ___
 
@@ -122,7 +122,7 @@ ___
 
 #### Defined in
 
-[lib/interfaces.ts:17](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/interfaces.ts#L17)
+[lib/interfaces.ts:17](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/interfaces.ts#L17)
 
 ___
 
@@ -132,7 +132,7 @@ ___
 
 #### Defined in
 
-[lib/interfaces.ts:16](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/interfaces.ts#L16)
+[lib/interfaces.ts:16](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/interfaces.ts#L16)
 
 ___
 
@@ -142,7 +142,7 @@ ___
 
 #### Defined in
 
-[lib/interfaces.ts:12](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/interfaces.ts#L12)
+[lib/interfaces.ts:12](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/interfaces.ts#L12)
 
 ___
 
@@ -152,7 +152,7 @@ ___
 
 #### Defined in
 
-[lib/interfaces.ts:7](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/interfaces.ts#L7)
+[lib/interfaces.ts:7](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/interfaces.ts#L7)
 
 ___
 
@@ -162,4 +162,4 @@ ___
 
 #### Defined in
 
-[lib/interfaces.ts:11](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/interfaces.ts#L11)
+[lib/interfaces.ts:11](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/interfaces.ts#L11)

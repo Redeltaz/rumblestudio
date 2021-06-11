@@ -33,7 +33,7 @@
 
 #### Defined in
 
-[src/lib/Factory.ts:84](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-configs/src/lib/Factory.ts#L84)
+[src/lib/Factory.ts:84](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-configs/src/lib/Factory.ts#L84)
 
 ___
 
@@ -54,4 +54,4 @@ ___
 
 #### Defined in
 
-[src/lib/Factory.ts:109](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-configs/src/lib/Factory.ts#L109)
+[src/lib/Factory.ts:109](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-configs/src/lib/Factory.ts#L109)

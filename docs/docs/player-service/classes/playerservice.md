@@ -86,7 +86,7 @@ Create a player service
 
 #### Defined in
 
-[lib/player-service.ts:235](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L235)
+[lib/player-service.ts:235](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L235)
 
 ## Properties
 
@@ -98,7 +98,7 @@ The total duration of the song actually being played
 
 #### Defined in
 
-[lib/player-service.ts:190](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L190)
+[lib/player-service.ts:190](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L190)
 
 ___
 
@@ -111,7 +111,7 @@ actually being played
 
 #### Defined in
 
-[lib/player-service.ts:149](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L149)
+[lib/player-service.ts:149](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L149)
 
 ___
 
@@ -123,7 +123,7 @@ True when there is a song actually being played
 
 #### Defined in
 
-[lib/player-service.ts:22](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L22)
+[lib/player-service.ts:22](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L22)
 
 ___
 
@@ -135,7 +135,7 @@ The progress in percentage of the song being played
 
 #### Defined in
 
-[lib/player-service.ts:203](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L203)
+[lib/player-service.ts:203](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L203)
 
 ___
 
@@ -149,7 +149,7 @@ from an RSS feed URL, audio file urls or Song Objects
 
 #### Defined in
 
-[lib/player-service.ts:166](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L166)
+[lib/player-service.ts:166](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L166)
 
 ___
 
@@ -161,7 +161,7 @@ The progress in seconds of the song being played
 
 #### Defined in
 
-[lib/player-service.ts:218](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L218)
+[lib/player-service.ts:218](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L218)
 
 ___
 
@@ -174,7 +174,7 @@ The rate of the playback speed, a value between 0.5 to 4.0
 
 #### Defined in
 
-[lib/player-service.ts:102](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L102)
+[lib/player-service.ts:102](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L102)
 
 ___
 
@@ -186,7 +186,7 @@ If set to true, the playlist will be shuffled in a random a order
 
 #### Defined in
 
-[lib/player-service.ts:50](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L50)
+[lib/player-service.ts:50](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L50)
 
 ___
 
@@ -200,7 +200,7 @@ effect if the playlist contains less than 5 songs
 
 #### Defined in
 
-[lib/player-service.ts:81](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L81)
+[lib/player-service.ts:81](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L81)
 
 ___
 
@@ -213,7 +213,7 @@ default value is the max : 1
 
 #### Defined in
 
-[lib/player-service.ts:124](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L124)
+[lib/player-service.ts:124](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L124)
 
 ___
 
@@ -226,7 +226,7 @@ when a new song or playlist is loaded
 
 #### Defined in
 
-[lib/player-service.ts:44](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L44)
+[lib/player-service.ts:44](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L44)
 
 ___
 
@@ -240,7 +240,7 @@ song reaches end
 
 #### Defined in
 
-[lib/player-service.ts:19](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L19)
+[lib/player-service.ts:19](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L19)
 
 ___
 
@@ -252,7 +252,7 @@ If set to true, the actually played song will be played in loop
 
 #### Defined in
 
-[lib/player-service.ts:47](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L47)
+[lib/player-service.ts:47](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L47)
 
 ___
 
@@ -264,7 +264,7 @@ CALLBACKS ON STATE CHANGE
 
 #### Defined in
 
-[lib/player-service.ts:907](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L907)
+[lib/player-service.ts:907](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L907)
 
 ## Accessors
 
@@ -280,7 +280,7 @@ Get the value of _duration
 
 #### Defined in
 
-[lib/player-service.ts:193](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L193)
+[lib/player-service.ts:193](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L193)
 
 • `set` **duration**(`newDuration`): `void`
 
@@ -298,7 +298,7 @@ Set the value of _duration
 
 #### Defined in
 
-[lib/player-service.ts:197](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L197)
+[lib/player-service.ts:197](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L197)
 
 ___
 
@@ -314,7 +314,7 @@ Get the value of _index
 
 #### Defined in
 
-[lib/player-service.ts:151](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L151)
+[lib/player-service.ts:151](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L151)
 
 • `set` **index**(`value`): `void`
 
@@ -332,7 +332,7 @@ Set the value of _index
 
 #### Defined in
 
-[lib/player-service.ts:156](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L156)
+[lib/player-service.ts:156](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L156)
 
 ___
 
@@ -348,7 +348,7 @@ Get the _isPlaying value
 
 #### Defined in
 
-[lib/player-service.ts:25](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L25)
+[lib/player-service.ts:25](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L25)
 
 • `set` **isPlaying**(`newPlayingState`): `void`
 
@@ -366,7 +366,7 @@ Set the _isPlaying value
 
 #### Defined in
 
-[lib/player-service.ts:30](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L30)
+[lib/player-service.ts:30](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L30)
 
 ___
 
@@ -382,7 +382,7 @@ Get the value of _percentage
 
 #### Defined in
 
-[lib/player-service.ts:206](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L206)
+[lib/player-service.ts:206](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L206)
 
 • `set` **percentage**(`newPercentage`): `void`
 
@@ -400,7 +400,7 @@ Set the value of _percentage
 
 #### Defined in
 
-[lib/player-service.ts:211](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L211)
+[lib/player-service.ts:211](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L211)
 
 ___
 
@@ -416,7 +416,7 @@ Get the value of _playlist
 
 #### Defined in
 
-[lib/player-service.ts:171](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L171)
+[lib/player-service.ts:171](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L171)
 
 • `set` **playlist**(`playlist`): `void`
 
@@ -434,7 +434,7 @@ Set the value of playlist
 
 #### Defined in
 
-[lib/player-service.ts:179](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L179)
+[lib/player-service.ts:179](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L179)
 
 ___
 
@@ -450,7 +450,7 @@ Get the value of _position
 
 #### Defined in
 
-[lib/player-service.ts:221](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L221)
+[lib/player-service.ts:221](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L221)
 
 • `set` **position**(`newPosition`): `void`
 
@@ -468,7 +468,7 @@ Set the value of _position
 
 #### Defined in
 
-[lib/player-service.ts:226](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L226)
+[lib/player-service.ts:226](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L226)
 
 ___
 
@@ -484,7 +484,7 @@ Get the value of _rate
 
 #### Defined in
 
-[lib/player-service.ts:105](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L105)
+[lib/player-service.ts:105](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L105)
 
 • `set` **rate**(`rate`): `void`
 
@@ -502,7 +502,7 @@ Set the value of rate
 
 #### Defined in
 
-[lib/player-service.ts:110](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L110)
+[lib/player-service.ts:110](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L110)
 
 ___
 
@@ -518,7 +518,7 @@ Get the value of _shuffle
 
 #### Defined in
 
-[lib/player-service.ts:53](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L53)
+[lib/player-service.ts:53](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L53)
 
 • `set` **shuffle**(`value`): `void`
 
@@ -536,7 +536,7 @@ Set the value of shuffle
 
 #### Defined in
 
-[lib/player-service.ts:58](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L58)
+[lib/player-service.ts:58](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L58)
 
 ___
 
@@ -552,7 +552,7 @@ Get the value of _unloadAll
 
 #### Defined in
 
-[lib/player-service.ts:84](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L84)
+[lib/player-service.ts:84](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L84)
 
 • `set` **unloadAll**(`value`): `void`
 
@@ -570,7 +570,7 @@ Set the value of _unloadAll
 
 #### Defined in
 
-[lib/player-service.ts:89](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L89)
+[lib/player-service.ts:89](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L89)
 
 ___
 
@@ -586,7 +586,7 @@ Get the value of _volume
 
 #### Defined in
 
-[lib/player-service.ts:127](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L127)
+[lib/player-service.ts:127](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L127)
 
 • `set` **volume**(`level`): `void`
 
@@ -604,7 +604,7 @@ Set the value of _volume
 
 #### Defined in
 
-[lib/player-service.ts:132](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L132)
+[lib/player-service.ts:132](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L132)
 
 ## Methods
 
@@ -624,7 +624,7 @@ Set the value of _volume
 
 #### Defined in
 
-[lib/player-service.ts:909](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L909)
+[lib/player-service.ts:909](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L909)
 
 ___
 
@@ -646,7 +646,7 @@ CALLBACKS ON UPDATE
 
 #### Defined in
 
-[lib/player-service.ts:898](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L898)
+[lib/player-service.ts:898](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L898)
 
 ___
 
@@ -668,7 +668,7 @@ Add a new track in the playlist
 
 #### Defined in
 
-[lib/player-service.ts:402](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L402)
+[lib/player-service.ts:402](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L402)
 
 ___
 
@@ -691,7 +691,7 @@ If the index is not provided, it will download the track actually played
 
 #### Defined in
 
-[lib/player-service.ts:864](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L864)
+[lib/player-service.ts:864](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L864)
 
 ___
 
@@ -713,7 +713,7 @@ Responsible for emitting events whenever the player state changes
 
 #### Defined in
 
-[lib/player-service.ts:917](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L917)
+[lib/player-service.ts:917](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L917)
 
 ___
 
@@ -736,7 +736,7 @@ Allows to generate a song object using an URL
 
 #### Defined in
 
-[lib/player-service.ts:775](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L775)
+[lib/player-service.ts:775](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L775)
 
 ___
 
@@ -758,7 +758,7 @@ Returns the index of a given song in the playlist
 
 #### Defined in
 
-[lib/player-service.ts:254](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L254)
+[lib/player-service.ts:254](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L254)
 
 ___
 
@@ -783,7 +783,7 @@ this is important when unloadAll is set to true
 
 #### Defined in
 
-[lib/player-service.ts:275](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L275)
+[lib/player-service.ts:275](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L275)
 
 ___
 
@@ -806,7 +806,7 @@ return the ETA for the song at index in the playlist
 
 #### Defined in
 
-[lib/player-service.ts:698](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L698)
+[lib/player-service.ts:698](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L698)
 
 ___
 
@@ -829,7 +829,7 @@ otherwise it returns the total duration of the actual song
 
 #### Defined in
 
-[lib/player-service.ts:719](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L719)
+[lib/player-service.ts:719](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L719)
 
 ___
 
@@ -851,7 +851,7 @@ Load a song
 
 #### Defined in
 
-[lib/player-service.ts:393](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L393)
+[lib/player-service.ts:393](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L393)
 
 ___
 
@@ -868,7 +868,7 @@ it will play the first one
 
 #### Defined in
 
-[lib/player-service.ts:528](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L528)
+[lib/player-service.ts:528](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L528)
 
 ___
 
@@ -895,7 +895,7 @@ If pauseOthers is true, it will put on pause all the tracks in the playlist
 
 #### Defined in
 
-[lib/player-service.ts:463](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L463)
+[lib/player-service.ts:463](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L463)
 
 ___
 
@@ -921,7 +921,7 @@ it will resolve -1 if the playlist is empty
 
 #### Defined in
 
-[lib/player-service.ts:418](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L418)
+[lib/player-service.ts:418](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L418)
 
 ___
 
@@ -944,7 +944,7 @@ options such as stop playing all other songs in the playlist
 
 #### Defined in
 
-[lib/player-service.ts:450](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L450)
+[lib/player-service.ts:450](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L450)
 
 ___
 
@@ -960,7 +960,7 @@ Preload all songs in the playlist, or at least 3 of them when unloadAll is true
 
 #### Defined in
 
-[lib/player-service.ts:373](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L373)
+[lib/player-service.ts:373](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L373)
 
 ___
 
@@ -978,7 +978,7 @@ otherwise it will simply restart the actual song
 
 #### Defined in
 
-[lib/player-service.ts:582](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L582)
+[lib/player-service.ts:582](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L582)
 
 ___
 
@@ -1003,7 +1003,7 @@ given index in the playlist
 
 #### Defined in
 
-[lib/player-service.ts:643](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L643)
+[lib/player-service.ts:643](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L643)
 
 ___
 
@@ -1028,7 +1028,7 @@ given index in the playlist
 
 #### Defined in
 
-[lib/player-service.ts:666](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L666)
+[lib/player-service.ts:666](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L666)
 
 ___
 
@@ -1050,7 +1050,7 @@ Load a playlist from the URL of a RSS feed file
 
 #### Defined in
 
-[lib/player-service.ts:786](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L786)
+[lib/player-service.ts:786](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L786)
 
 ___
 
@@ -1072,7 +1072,7 @@ Load a playlist from Partial Song object
 
 #### Defined in
 
-[lib/player-service.ts:752](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L752)
+[lib/player-service.ts:752](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L752)
 
 ___
 
@@ -1094,7 +1094,7 @@ Load a playlist from an array of song files URI
 
 #### Defined in
 
-[lib/player-service.ts:739](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L739)
+[lib/player-service.ts:739](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L739)
 
 ___
 
@@ -1110,7 +1110,7 @@ Allows to shuffle the playlist
 
 #### Defined in
 
-[lib/player-service.ts:877](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L877)
+[lib/player-service.ts:877](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L877)
 
 ___
 
@@ -1133,7 +1133,7 @@ at that index in the playlist
 
 #### Defined in
 
-[lib/player-service.ts:503](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L503)
+[lib/player-service.ts:503](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L503)
 
 ___
 
@@ -1149,7 +1149,7 @@ Unload song from memory
 
 #### Defined in
 
-[lib/player-service.ts:933](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L933)
+[lib/player-service.ts:933](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L933)
 
 ___
 
@@ -1171,4 +1171,4 @@ Unload a song
 
 #### Defined in
 
-[lib/player-service.ts:385](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-service/src/lib/player-service.ts#L385)
+[lib/player-service.ts:385](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-service/src/lib/player-service.ts#L385)

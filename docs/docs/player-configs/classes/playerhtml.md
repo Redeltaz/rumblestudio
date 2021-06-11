@@ -308,7 +308,7 @@ HTMLElement.constructor
 
 #### Defined in
 
-[src/lib/elements/playerHTML.ts:54](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-configs/src/lib/elements/playerHTML.ts#L54)
+[src/lib/elements/playerHTML.ts:54](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-configs/src/lib/elements/playerHTML.ts#L54)
 
 ## Properties
 
@@ -4022,7 +4022,7 @@ An instance of player-service which is in charge of all playing tasks
 
 #### Defined in
 
-[src/lib/elements/playerHTML.ts:13](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-configs/src/lib/elements/playerHTML.ts#L13)
+[src/lib/elements/playerHTML.ts:13](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-configs/src/lib/elements/playerHTML.ts#L13)
 
 ___
 
@@ -4274,7 +4274,7 @@ Get the index of the song being played by the service
 
 #### Defined in
 
-[src/lib/elements/playerHTML.ts:22](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-configs/src/lib/elements/playerHTML.ts#L22)
+[src/lib/elements/playerHTML.ts:22](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-configs/src/lib/elements/playerHTML.ts#L22)
 
 ___
 
@@ -4290,7 +4290,7 @@ Get the progress percentage of the song being played by the service
 
 #### Defined in
 
-[src/lib/elements/playerHTML.ts:35](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-configs/src/lib/elements/playerHTML.ts#L35)
+[src/lib/elements/playerHTML.ts:35](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-configs/src/lib/elements/playerHTML.ts#L35)
 
 ___
 
@@ -4306,7 +4306,7 @@ Get the playlist from the service
 
 #### Defined in
 
-[src/lib/elements/playerHTML.ts:16](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-configs/src/lib/elements/playerHTML.ts#L16)
+[src/lib/elements/playerHTML.ts:16](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-configs/src/lib/elements/playerHTML.ts#L16)
 
 ___
 
@@ -4322,7 +4322,7 @@ Get the progress position in seconds of the song being played by the service
 
 #### Defined in
 
-[src/lib/elements/playerHTML.ts:29](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-configs/src/lib/elements/playerHTML.ts#L29)
+[src/lib/elements/playerHTML.ts:29](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-configs/src/lib/elements/playerHTML.ts#L29)
 
 ## Methods
 
@@ -4787,7 +4787,7 @@ Method in charge of dispatching events received from the service
 
 #### Defined in
 
-[src/lib/elements/playerHTML.ts:78](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-configs/src/lib/elements/playerHTML.ts#L78)
+[src/lib/elements/playerHTML.ts:78](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-configs/src/lib/elements/playerHTML.ts#L78)
 
 ___
 
@@ -5206,7 +5206,7 @@ in the playlist of the service
 
 #### Defined in
 
-[src/lib/elements/playerHTML.ts:44](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-configs/src/lib/elements/playerHTML.ts#L44)
+[src/lib/elements/playerHTML.ts:44](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-configs/src/lib/elements/playerHTML.ts#L44)
 
 ___
 
@@ -5230,7 +5230,7 @@ in the playlist of the service
 
 #### Defined in
 
-[src/lib/elements/playerHTML.ts:52](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-configs/src/lib/elements/playerHTML.ts#L52)
+[src/lib/elements/playerHTML.ts:52](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-configs/src/lib/elements/playerHTML.ts#L52)
 
 ___
 
@@ -5636,7 +5636,7 @@ it will play the first one
 
 #### Defined in
 
-[src/lib/elements/playerHTML.ts:127](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-configs/src/lib/elements/playerHTML.ts#L127)
+[src/lib/elements/playerHTML.ts:127](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-configs/src/lib/elements/playerHTML.ts#L127)
 
 ___
 
@@ -5683,7 +5683,7 @@ If pauseOthers is true, it will put on pause all the tracks in the playlist
 
 #### Defined in
 
-[src/lib/elements/playerHTML.ts:103](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-configs/src/lib/elements/playerHTML.ts#L103)
+[src/lib/elements/playerHTML.ts:103](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-configs/src/lib/elements/playerHTML.ts#L103)
 
 ___
 
@@ -5709,7 +5709,7 @@ it will resolve -1 if the playlist is empty
 
 #### Defined in
 
-[src/lib/elements/playerHTML.ts:91](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-configs/src/lib/elements/playerHTML.ts#L91)
+[src/lib/elements/playerHTML.ts:91](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-configs/src/lib/elements/playerHTML.ts#L91)
 
 ___
 
@@ -5755,7 +5755,7 @@ otherwise it will simply restart the actual song
 
 #### Defined in
 
-[src/lib/elements/playerHTML.ts:139](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-configs/src/lib/elements/playerHTML.ts#L139)
+[src/lib/elements/playerHTML.ts:139](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-configs/src/lib/elements/playerHTML.ts#L139)
 
 ___
 
@@ -6416,7 +6416,7 @@ value, it will jump backwards
 
 #### Defined in
 
-[src/lib/elements/playerHTML.ts:177](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-configs/src/lib/elements/playerHTML.ts#L177)
+[src/lib/elements/playerHTML.ts:177](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-configs/src/lib/elements/playerHTML.ts#L177)
 
 ___
 
@@ -6441,7 +6441,7 @@ given index in the playlist
 
 #### Defined in
 
-[src/lib/elements/playerHTML.ts:150](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-configs/src/lib/elements/playerHTML.ts#L150)
+[src/lib/elements/playerHTML.ts:150](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-configs/src/lib/elements/playerHTML.ts#L150)
 
 ___
 
@@ -6465,7 +6465,7 @@ given index in the playlist.
 
 #### Defined in
 
-[src/lib/elements/playerHTML.ts:189](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-configs/src/lib/elements/playerHTML.ts#L189)
+[src/lib/elements/playerHTML.ts:189](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-configs/src/lib/elements/playerHTML.ts#L189)
 
 ___
 
@@ -6489,7 +6489,7 @@ given index in the playlist
 
 #### Defined in
 
-[src/lib/elements/playerHTML.ts:165](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-configs/src/lib/elements/playerHTML.ts#L165)
+[src/lib/elements/playerHTML.ts:165](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-configs/src/lib/elements/playerHTML.ts#L165)
 
 ___
 
@@ -6614,7 +6614,7 @@ Set the instance of playerService
 
 #### Defined in
 
-[src/lib/elements/playerHTML.ts:69](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-configs/src/lib/elements/playerHTML.ts#L69)
+[src/lib/elements/playerHTML.ts:69](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-configs/src/lib/elements/playerHTML.ts#L69)
 
 ___
 
@@ -6661,7 +6661,7 @@ at that index in the playlist
 
 #### Defined in
 
-[src/lib/elements/playerHTML.ts:113](https://github.com/Redeltaz/rumblestudio/blob/28da9d7/libs/player-configs/src/lib/elements/playerHTML.ts#L113)
+[src/lib/elements/playerHTML.ts:113](https://github.com/Redeltaz/rumblestudio/blob/2c7855f/libs/player-configs/src/lib/elements/playerHTML.ts#L113)
 
 ___
 
